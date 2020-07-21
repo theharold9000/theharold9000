@@ -2,7 +2,7 @@
 
 I'm Harold - a software engineering recruiter in Brisbane, a markdown enthusiast and tortured blogger.
 
-💬 Ask me about hiring or getting hired in Queensland, pasta making and Formula 1
+💬 Ask me about hiring or getting hired in Queensland, pasta making and Formula 1 </br>
 🤔 Looking for help with sourdough and perfecting a [Hugo static site](https://gohugo.io)
 
 <!--
